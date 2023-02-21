@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello Friends<br>I am Arfat Begum. I've been in the Web Development field with enough experience and extensive knowledge in React js, Redux, HTML5, CSS, JavaScript, JavaScript ES6, Tailwind CSS, Bootstrap, Firebase, Figma and Adobe Photoshop, and Illustrator. <br>I am also working as a full-stack developer with back-end technologies like Node js, Express.js, and MongoDB. <br>My goal in pursuing coding is just to learn an interesting new skill, I should be able to find all the information that I need using free resources.
+Hello Friends,<br>I am Arfat Begum. I've been in the Web Development field with enough experience and extensive knowledge in React js, Redux, HTML5, CSS, JavaScript, JavaScript ES6, Tailwind CSS, Bootstrap, Firebase, Figma and Adobe Photoshop, and Illustrator. <br>I am also working as a full-stack developer with back-end technologies like Node js, Express.js, and MongoDB. <br>My goal in pursuing coding is just to learn an interesting new skill, I should be able to find all the information that I need using free resources.
 
 
 ## 🌐 Socials:
