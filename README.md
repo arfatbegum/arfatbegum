@@ -1,5 +1,16 @@
-# 💫 About Me:
-Hello Friends,<br>I am Arfat Begum. I've been in the Web Development field with enough experience and extensive knowledge in React js, Redux, HTML5, CSS, JavaScript, JavaScript ES6, Tailwind CSS, Bootstrap, Firebase, Figma and Adobe Photoshop. <br>I am also working as a full-stack developer with back-end technologies like Node js, Express.js, and MongoDB. <br>My goal in pursuing coding is just to learn an interesting new skill, I should be able to find all the information that I need using free resources.
+### 💫About Me
+
+Hey there! 👋 I'm Arfat, a passionate full-stack software developer.
+
+## Interests and Expertise
+
+I specialize in web development, with a strong focus on front-end technologies like React and Next.js. I'm also well-versed in back-end development using Node.js and Express.js, and I enjoy building full-stack applications.
+
+## Projects
+- 🌐 [ShopNest]([link-to-project-](https://shoppable-ecommerce.netlify.app/)b): An e-commerce website built with React, Redux, Node.Js, Express.js, MongoDB, Mongoose, Paypal, Cloudinary, Tailwind CSS.
+- 📊 [ShopNest-Admin-Panel]([link-to-project-c](https://shoppable-admin.netlify.app/)): A data visualization dashboard using React, Redux, Node.Js, Express.js, MongoDB, Mongoose, Ant Design, Cloudinary, Tailwind CSS.
+
+Feel free to explore my repositories to learn more about my work!
 
 
 ## 🌐 Socials:
