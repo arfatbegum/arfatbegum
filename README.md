@@ -7,8 +7,8 @@ Hey there! 👋 I'm Arfat, a passionate full-stack software developer.
 I specialize in web development, with a strong focus on front-end technologies like React and Next.js. I'm also well-versed in back-end development using Node.js and Express.js, and I enjoy building full-stack applications.
 
 ## Projects
-- 🌐 [ShopNest]([link-to-project-](https://shoppable-ecommerce.netlify.app/)b): An e-commerce website built with React, Redux, Node.Js, Express.js, MongoDB, Mongoose, Paypal, Cloudinary, Tailwind CSS.
-- 📊 [ShopNest-Admin-Panel]([link-to-project-c](https://shoppable-admin.netlify.app/)): A data visualization dashboard using React, Redux, Node.Js, Express.js, MongoDB, Mongoose, Ant Design, Cloudinary, Tailwind CSS.
+- 🌐 [ShopNest]([https://shoppable-ecommerce.netlify.app/)]): An e-commerce website built with React, Redux, Node.Js, Express.js, MongoDB, Mongoose, Paypal, Cloudinary, and Tailwind CSS.
+- 📊 [ShopNest-Admin-Panel]([link-to-project-c](https://shoppable-admin.netlify.app/)]): A data visualization dashboard using React, Redux, Node.Js, Express.js, MongoDB, Mongoose, Ant Design, Cloudinary, Tailwind CSS.
 
 Feel free to explore my repositories to learn more about my work!
 
