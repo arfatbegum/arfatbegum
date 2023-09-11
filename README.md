@@ -8,7 +8,7 @@ I specialize in web development, with a strong focus on front-end technologies l
 
 ## Projects
 - 🌐 [ShopNest]([https://shoppable-ecommerce.netlify.app/]): An e-commerce website built with React, Redux, Node.Js, Express.js, MongoDB, Mongoose, Paypal, Cloudinary, and Tailwind CSS.
-- 📊 [ShopNest-Admin-Panel]([link-to-project-c](https://shoppable-admin.netlify.app/]): A data visualization dashboard using React, Redux, Node.Js, Express.js, MongoDB, Mongoose, Ant Design, Cloudinary, Tailwind CSS.
+- 📊 [ShopNest-Admin-Panel]([https://shoppable-admin.netlify.app/]): A data visualization dashboard using React, Redux, Node.Js, Express.js, MongoDB, Mongoose, Ant Design, Cloudinary, Tailwind CSS.
 
 Feel free to explore my repositories to learn more about my work!
 
