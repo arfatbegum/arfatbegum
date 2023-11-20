@@ -11,7 +11,7 @@ Hello there! 👋 I'm a passionate Full Stack Developer on a mission to transfor
 ✨My specialization lies in crafting robust and scalable solutions that contribute to the overall success of businesses. I thrive on the challenge of creating software that not only meets but exceeds expectations.
 
 ## Projects
-- 🌐 [ShopNest](https://ecommerce-shopnest.netlify.app): An e-commerce website built with React, Redux, Node.Js, Express.js, MongoDB, Mongoose, Paypal, Cloudinary, and Tailwind CSS.
+- 🌐 [ShopNest](https://ecommerce-shopnest.netlify.app): ShopNest offers a visually appealing homepage with eye-catching banners. Additionally, it extends a dual-faceted user experience, accommodating both customers and administrators with distinct roles. An e-commerce website built with React, Redux, Node.Js, Express.js, MongoDB, Mongoose, Paypal, Cloudinary, and Tailwind CSS.
 - 📊 [ShopNest-Admin-Panel](https://shopnest-admin.netlify.app): A data visualization dashboard using React, Redux, Node.Js, Express.js, MongoDB, Mongoose, Ant Design, Cloudinary, Tailwind CSS.
 - 🌐 [Wayfarer Travel](https://wayfarer-travel.vercel.app/): Wayfarer Travel is a comprehensive platform designed to facilitate the seamless interaction between users, administrators, and super administrators. It offers a wide range of functionalities that cater to different stakeholders, ensuring an intuitive and efficient booking experience. This website built with TypeScript · Node.js · Express.js · Next.js · Redux.js · PostgreSQL · Software Design · React Hooks · Redux Thunk · Software Development · Paypal Integration · Prisma ORM
 
