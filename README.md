@@ -18,9 +18,9 @@ Hello there! 👋 I'm a passionate Full Stack Developer on a mission to transfor
 💫 Let's Connect!
 Feel free to reach out to me at any time. Whether you have a project idea, want to discuss technology trends, or simply have a coding-related chat, I'm here for you.
 
-📞 Phone: +966533431648
-✉️ Email: arfatakter39@gmail.com
-💬 WhatsApp: +966533431648
+### 📞 Phone: +966533431648
+### ✉️ Email: arfatakter39@gmail.com
+### 💬 WhatsApp: +966533431648
 
 Feel free to explore my repositories to learn more about my work!
 
